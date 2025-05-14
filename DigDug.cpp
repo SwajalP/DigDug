@@ -1,6 +1,5 @@
-// Lab9HMain.cpp
+
 // Runs on MSPM0G3507
-// Lab 9 ECE319H
 // Your name Swajal Padhi
 // Last Modified: 12/26/2024
 
@@ -27,7 +26,7 @@
 #include "Switch.h"
 #include "Sound.h"
 #include "images/images.h" 
-#include "../ECE319K_Lab9H/BitResource.h"
+#include "../DigDug/BitResource.h"
 #include "GameObjects/Character.h"  
 #include "GameObjects/Displayable.h" 
 #include "GameObjects/GameBoard.h"
